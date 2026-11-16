@@ -236,17 +236,9 @@ These are potential improvements, not claims that the features have already been
 
 ## 👨‍💻 Project Information
 
-**Developers:** Anmol Agarwal and Lakshya Gupta  
+**Developers:** Shreya Gupta and anmol agrawal 
 **Department:** Computer Science and Engineering (Internet of Things)  
 **Institution:** Noida Institute of Engineering and Technology (NIET), Greater Noida, India
-
-## ⭐ Support
-
-If you find this project interesting, consider starring the repository and sharing feedback.
-
-**Repository:** [anmolagarwal-commits/hsrp-smart-campus-parking](https://github.com/anmolagarwal-commits/hsrp-smart-campus-parking)
-
----
 
 <p align="center">
   <em>Exploring Edge AI, IoT, computer vision, and intelligent campus infrastructure.</em>
