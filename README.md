@@ -143,7 +143,7 @@ hsrp-smart-campus-parking/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/anmolagarwal-commits/hsrp-smart-campus-parking.git
+git clone https://github.com/shreyaa-hash/hsrp-smart-campus-parking/ 
 cd hsrp-smart-campus-parking
 ```
 
@@ -251,5 +251,6 @@ If you find this project interesting, consider starring the repository and shari
 <p align="center">
   <em>Exploring Edge AI, IoT, computer vision, and intelligent campus infrastructure.</em>
 </p>
-#   h s r p - s m a r t - c a m p u s - p a r k i n g  
+#   h s r p - s m a r t - c a m p u s - p a r k i n g 
+ 
  
